@@ -14,7 +14,7 @@ from flask import Flask, render_template, flash, request
 from wtforms import Form, TextField, TextAreaField, validators, StringField, SubmitField
 from binascii import hexlify, unhexlify
 
-from simple_steem_client.client import SteemRemoteBackend, SteemInterface, SteemRPCException
+from simple_crea_client.client import SteemRemoteBackend, SteemInterface, SteemRPCException
 
 from . import submit
 
@@ -44,7 +44,7 @@ def main(argv):
     result_json = json.loads(result_str.strip())
     account_creator_wif = result_json[0]["private_key"]
     backend = SteemRemoteBackend(nodes=[node], appbase=True, min_timeout=timeout, max_timeout=timeout)
-    steemd = SteemInterface(backend)
+    cread = SteemInterface(backend)
     sign_transaction_exe = args.sign_transaction_exe
     
     if args.chain_name != "":
@@ -57,8 +57,8 @@ def main(argv):
     
     signer = submit.TransactionSigner(sign_transaction_exe=sign_transaction_exe, chain_id=chain_id)
 
-    template_dir = '/tmp/tinman-templates'
-    static_dir = '/tmp/tinman-static'
+    template_dir = '/tmp/chinman-templates'
+    static_dir = '/tmp/chinman-static'
 
     app = Flask(__name__, template_folder=template_dir, static_folder=static_dir, static_url_path='/static')
     app.debug = True
@@ -105,7 +105,7 @@ def main(argv):
                     "signatures":[]
                 }
                 
-                cached_dgpo = submit.CachedDgpo(steemd=steemd)
+                cached_dgpo = submit.CachedDgpo(cread=cread)
                 dgpo = cached_dgpo.get()
                 tx["ref_block_num"] = dgpo["head_block_number"] & 0xFFFF
                 tx["ref_block_prefix"] = struct.unpack_from("<I", unhexlify(dgpo["head_block_id"]), 4)[0]
@@ -123,7 +123,7 @@ def main(argv):
                 print("bcast:", json.dumps(tx, separators=(",", ":")))
                 
                 try:
-                    steemd.network_broadcast_api.broadcast_transaction(trx=tx)
+                    cread.network_broadcast_api.broadcast_transaction(trx=tx)
                     flash("Account Created: " + new_account_name)
                     
                     for key in keys:

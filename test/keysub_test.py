@@ -2,7 +2,7 @@ import unittest
 import json
 import shutil
 
-from tinman import keysub
+from chinman import keysub
 
 class KeysubTest(unittest.TestCase):
     def test_process_esc(self):

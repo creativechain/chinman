@@ -4,7 +4,7 @@
       "snapshot:origin_api":"http://calculon.local"
    },
    "dynamic_global_properties":{
-      "total_vesting_fund_steem":{
+      "total_vesting_fund_crea":{
          "amount":"196793227573",
          "nai":"@@000000021",
          "precision":3
@@ -18,7 +18,7 @@
             ],
             "key_auths":[
                [
-                  "STM7Wz3qohJpAbmmqBv9UUKBG14h9ueYkJspWot5yiX1JSiohwZZX",
+                  "CREA7Wz3qohJpAbmmqBv9UUKBG14h9ueYkJspWot5yiX1JSiohwZZX",
                   1
                ]
             ],
@@ -48,7 +48,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"2017-03-15T07:05:15",
          "lifetime_vote_count":0,
-         "memo_key":"STM7Wz3qohJpAbmmqBv9UUKBG14h9ueYkJspWot5yiX1JSiohwZZX",
+         "memo_key":"CREA7Wz3qohJpAbmmqBv9UUKBG14h9ueYkJspWot5yiX1JSiohwZZX",
          "mined":true,
          "name":"alpha",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -58,7 +58,7 @@
             ],
             "key_auths":[
                [
-                  "STM7Wz3qohJpAbmmqBv9UUKBG14h9ueYkJspWot5yiX1JSiohwZZX",
+                  "CREA7Wz3qohJpAbmmqBv9UUKBG14h9ueYkJspWot5yiX1JSiohwZZX",
                   1
                ]
             ],
@@ -71,7 +71,7 @@
             ],
             "key_auths":[
                [
-                  "STM7Wz3qohJpAbmmqBv9UUKBG14h9ueYkJspWot5yiX1JSiohwZZX",
+                  "CREA7Wz3qohJpAbmmqBv9UUKBG14h9ueYkJspWot5yiX1JSiohwZZX",
                   1
                ]
             ],
@@ -90,14 +90,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -107,7 +107,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -117,23 +117,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"4931480",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-09-06T00:00:51",
-         "sbd_seconds":"38421621615378",
-         "sbd_seconds_last_update":"2018-09-26T00:12:54",
+         "cbd_last_interest_payment":"2018-09-06T00:00:51",
+         "cbd_seconds":"38421621615378",
+         "cbd_seconds_last_update":"2018-09-26T00:12:54",
          "to_withdraw":"76724740938075",
          "vesting_shares":{
             "amount":"82084887877",
@@ -145,8 +145,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":9950,
+         "voting_flowbar":{
+            "current_flow":9950,
             "last_update_time":1489561515
          },
          "withdraw_routes":0,
@@ -160,7 +160,7 @@
             ],
             "key_auths":[
                [
-                  "STM7UHWQa2fSkoGWNmP3YAd41fB7h2X8pbCFv3wTsipRbU4ePYSNH",
+                  "CREA7UHWQa2fSkoGWNmP3YAd41fB7h2X8pbCFv3wTsipRbU4ePYSNH",
                   1
                ]
             ],
@@ -190,7 +190,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM7UHWQa2fSkoGWNmP3YAd41fB7h2X8pbCFv3wTsipRbU4ePYSNH",
+         "memo_key":"CREA7UHWQa2fSkoGWNmP3YAd41fB7h2X8pbCFv3wTsipRbU4ePYSNH",
          "mined":false,
          "name":"ben",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -200,7 +200,7 @@
             ],
             "key_auths":[
                [
-                  "STM7UHWQa2fSkoGWNmP3YAd41fB7h2X8pbCFv3wTsipRbU4ePYSNH",
+                  "CREA7UHWQa2fSkoGWNmP3YAd41fB7h2X8pbCFv3wTsipRbU4ePYSNH",
                   1
                ]
             ],
@@ -213,7 +213,7 @@
             ],
             "key_auths":[
                [
-                  "STM7UHWQa2fSkoGWNmP3YAd41fB7h2X8pbCFv3wTsipRbU4ePYSNH",
+                  "CREA7UHWQa2fSkoGWNmP3YAd41fB7h2X8pbCFv3wTsipRbU4ePYSNH",
                   1
                ]
             ],
@@ -232,14 +232,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -249,7 +249,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -259,23 +259,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"930",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-08-19T04:46:33",
-         "sbd_seconds":"0",
-         "sbd_seconds_last_update":"2018-08-19T04:46:33",
+         "cbd_last_interest_payment":"2018-08-19T04:46:33",
+         "cbd_seconds":"0",
+         "cbd_seconds_last_update":"2018-08-19T04:46:33",
          "to_withdraw":"8171000000000000",
          "vesting_shares":{
             "amount":"659751021",
@@ -287,8 +287,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1459433982
          },
          "withdraw_routes":0,
@@ -302,7 +302,7 @@
             ],
             "key_auths":[
                [
-                  "STM7hcWevRaKrgeZRTYVokfGAh8GvqqnASCcC3KKu81qmMXVBzDrE",
+                  "CREA7hcWevRaKrgeZRTYVokfGAh8GvqqnASCcC3KKu81qmMXVBzDrE",
                   1
                ]
             ],
@@ -332,7 +332,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM6yd1kyeJh61FRL6YeaLhApDwpZSdhcShKxJE7Qe86RABJmoih2",
+         "memo_key":"CREA6yd1kyeJh61FRL6YeaLhApDwpZSdhcShKxJE7Qe86RABJmoih2",
          "mined":false,
          "name":"binance-hot",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -342,7 +342,7 @@
             ],
             "key_auths":[
                [
-                  "STM6KCTd7srnaX7SmujwqoZLrYj5WrLTCmTXATf9m8Mjtij36SUrc",
+                  "CREA6KCTd7srnaX7SmujwqoZLrYj5WrLTCmTXATf9m8Mjtij36SUrc",
                   1
                ]
             ],
@@ -355,7 +355,7 @@
             ],
             "key_auths":[
                [
-                  "STM6MotFx2JVL93qnyPDoa2W3iafkSGTFBcddAzKk3fwbbSVu9CJC",
+                  "CREA6MotFx2JVL93qnyPDoa2W3iafkSGTFBcddAzKk3fwbbSVu9CJC",
                   1
                ]
             ],
@@ -374,14 +374,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -391,7 +391,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -401,23 +401,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"3725",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-08-28T18:14:06",
-         "sbd_seconds":"973177278",
-         "sbd_seconds_last_update":"2018-08-31T18:50:42",
+         "cbd_last_interest_payment":"2018-08-28T18:14:06",
+         "cbd_seconds":"973177278",
+         "cbd_seconds_last_update":"2018-08-31T18:50:42",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"1023055299",
@@ -429,8 +429,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1517370360
          },
          "withdraw_routes":0,
@@ -444,7 +444,7 @@
             ],
             "key_auths":[
                [
-                  "STM67fFvZrpvKzS44JTMJzwi1rLV7zREgqMAAFodJMRmr5d35CFYP",
+                  "CREA67fFvZrpvKzS44JTMJzwi1rLV7zREgqMAAFodJMRmr5d35CFYP",
                   1
                ]
             ],
@@ -474,7 +474,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM5gtLdAL7fbu3WMQpD2u78hhLNzQ4p75nuY7baTDjpKfCAgiqAF",
+         "memo_key":"CREA5gtLdAL7fbu3WMQpD2u78hhLNzQ4p75nuY7baTDjpKfCAgiqAF",
          "mined":false,
          "name":"bithumb.sunshine",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -484,7 +484,7 @@
             ],
             "key_auths":[
                [
-                  "STM7HRsGQe2x1zVaLhfaBGuqVbkbybhBhc5QvbEktbbqfKzrwvBt7",
+                  "CREA7HRsGQe2x1zVaLhfaBGuqVbkbybhBhc5QvbEktbbqfKzrwvBt7",
                   1
                ]
             ],
@@ -497,7 +497,7 @@
             ],
             "key_auths":[
                [
-                  "STM8ggb5zuMH4QGSXz8ZcswPefdAQU4mHgixxfh2Q89pJaHAifvKJ",
+                  "CREA8ggb5zuMH4QGSXz8ZcswPefdAQU4mHgixxfh2Q89pJaHAifvKJ",
                   1
                ]
             ],
@@ -516,14 +516,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -533,7 +533,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -543,23 +543,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "sbd_seconds":"0",
-         "sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "cbd_seconds":"0",
+         "cbd_seconds_last_update":"1970-01-01T00:00:00",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"203140325",
@@ -571,8 +571,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1529296185
          },
          "withdraw_routes":0,
@@ -586,7 +586,7 @@
             ],
             "key_auths":[
                [
-                  "STM6xNqvVTWvftzpcRu75LfPx6SVVQuFJ8BMYQjkBf6x8HJe6g7CF",
+                  "CREA6xNqvVTWvftzpcRu75LfPx6SVVQuFJ8BMYQjkBf6x8HJe6g7CF",
                   1
                ]
             ],
@@ -616,7 +616,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM6xNqvVTWvftzpcRu75LfPx6SVVQuFJ8BMYQjkBf6x8HJe6g7CF",
+         "memo_key":"CREA6xNqvVTWvftzpcRu75LfPx6SVVQuFJ8BMYQjkBf6x8HJe6g7CF",
          "mined":false,
          "name":"bittrex",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -626,7 +626,7 @@
             ],
             "key_auths":[
                [
-                  "STM6xNqvVTWvftzpcRu75LfPx6SVVQuFJ8BMYQjkBf6x8HJe6g7CF",
+                  "CREA6xNqvVTWvftzpcRu75LfPx6SVVQuFJ8BMYQjkBf6x8HJe6g7CF",
                   1
                ]
             ],
@@ -639,7 +639,7 @@
             ],
             "key_auths":[
                [
-                  "STM6xNqvVTWvftzpcRu75LfPx6SVVQuFJ8BMYQjkBf6x8HJe6g7CF",
+                  "CREA6xNqvVTWvftzpcRu75LfPx6SVVQuFJ8BMYQjkBf6x8HJe6g7CF",
                   1
                ]
             ],
@@ -658,14 +658,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -675,7 +675,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -685,23 +685,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"2018-06-13T23:39:15",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"2018-06-13T23:39:15",
+         "savings_cbd_last_interest_payment":"2018-06-13T23:39:15",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"2018-06-13T23:39:15",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"10076591799",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-09-23T08:48:06",
-         "sbd_seconds":"1963301527784049",
-         "sbd_seconds_last_update":"2018-09-25T14:55:27",
+         "cbd_last_interest_payment":"2018-09-23T08:48:06",
+         "cbd_seconds":"1963301527784049",
+         "cbd_seconds_last_update":"2018-09-25T14:55:27",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"8546751875750",
@@ -713,8 +713,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1460156337
          },
          "withdraw_routes":0,
@@ -728,7 +728,7 @@
             ],
             "key_auths":[
                [
-                  "STM5vgGoHBrUuDCspAPYi3dLwSyistyrz61NWkZNUAXAifZJaDLPF",
+                  "CREA5vgGoHBrUuDCspAPYi3dLwSyistyrz61NWkZNUAXAifZJaDLPF",
                   1
                ]
             ],
@@ -758,7 +758,7 @@
          "last_root_post":"2018-09-18T05:26:12",
          "last_vote_time":"2018-09-25T07:54:24",
          "lifetime_vote_count":0,
-         "memo_key":"STM7EAUbNf1CdTrMbydPoBTRMG4afXCoAErBJYevhgne6zEP6rVBT",
+         "memo_key":"CREA7EAUbNf1CdTrMbydPoBTRMG4afXCoAErBJYevhgne6zEP6rVBT",
          "mined":true,
          "name":"blocktrades",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -768,7 +768,7 @@
             ],
             "key_auths":[
                [
-                  "STM7WdrxF6iuSiHUB4maoLGXXBKXbqAJ9AZbzACX1MPK2AkuCh23S",
+                  "CREA7WdrxF6iuSiHUB4maoLGXXBKXbqAJ9AZbzACX1MPK2AkuCh23S",
                   1
                ]
             ],
@@ -781,7 +781,7 @@
             ],
             "key_auths":[
                [
-                  "STM5SaNVKJgy6ghnkNoMAprTxSDG55zps21Bo8qe1rnHmwAR4LzzC",
+                  "CREA5SaNVKJgy6ghnkNoMAprTxSDG55zps21Bo8qe1rnHmwAR4LzzC",
                   1
                ]
             ],
@@ -800,14 +800,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"85159",
             "nai":"@@000000021",
             "precision":3
@@ -817,7 +817,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"138937",
             "nai":"@@000000021",
             "precision":3
@@ -827,23 +827,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"15022",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"2018-07-10T04:36:54",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"2018-07-10T04:36:54",
+         "savings_cbd_last_interest_payment":"2018-07-10T04:36:54",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"2018-07-10T04:36:54",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"58635023",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-09-23T00:59:27",
-         "sbd_seconds":"15878269175853",
-         "sbd_seconds_last_update":"2018-09-26T01:14:18",
+         "cbd_last_interest_payment":"2018-09-23T00:59:27",
+         "cbd_seconds":"15878269175853",
+         "cbd_seconds_last_update":"2018-09-26T01:14:18",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"9649830728296540",
@@ -855,8 +855,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":"602779980539464",
+         "voting_flowbar":{
+            "current_flow":"602779980539464",
             "last_update_time":1537924914
          },
          "withdraw_routes":4,
@@ -870,11 +870,11 @@
             ],
             "key_auths":[
                [
-                  "STM7YtQZ7fwg7VE2U7wUPwdL2hWwtd3zR45XSPTk5dTirk7Mxud5z",
+                  "CREA7YtQZ7fwg7VE2U7wUPwdL2hWwtd3zR45XSPTk5dTirk7Mxud5z",
                   1
                ],
                [
-                  "STM7sw22HqsXbz7D2CmJfmMwt9rimtk518dRzsR1f8Cgw52dQR1pR",
+                  "CREA7sw22HqsXbz7D2CmJfmMwt9rimtk518dRzsR1f8Cgw52dQR1pR",
                   1
                ]
             ],
@@ -904,7 +904,7 @@
          "last_root_post":"2018-05-11T19:09:15",
          "last_vote_time":"2018-08-22T13:35:33",
          "lifetime_vote_count":0,
-         "memo_key":"STM7qtpUZfaHwyJk9ZwvXH3EsAxJcYWY4913Vj6xVWkskM8SRV2Ub",
+         "memo_key":"CREA7qtpUZfaHwyJk9ZwvXH3EsAxJcYWY4913Vj6xVWkskM8SRV2Ub",
          "mined":false,
          "name":"dan",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -914,11 +914,11 @@
             ],
             "key_auths":[
                [
-                  "STM7H7yZfed2GqkgdLuYy3VVrmQLV4htbiu1WGouRHsjjD4Kq1MvQ",
+                  "CREA7H7yZfed2GqkgdLuYy3VVrmQLV4htbiu1WGouRHsjjD4Kq1MvQ",
                   1
                ],
                [
-                  "STM7sw22HqsXbz7D2CmJfmMwt9rimtk518dRzsR1f8Cgw52dQR1pR",
+                  "CREA7sw22HqsXbz7D2CmJfmMwt9rimtk518dRzsR1f8Cgw52dQR1pR",
                   1
                ]
             ],
@@ -931,11 +931,11 @@
             ],
             "key_auths":[
                [
-                  "STM4yfYEjUoey4PLrKhnKFo1XKQZtZ77fWLnbGTr2mAUaSt2Sx9W4",
+                  "CREA4yfYEjUoey4PLrKhnKFo1XKQZtZ77fWLnbGTr2mAUaSt2Sx9W4",
                   1
                ],
                [
-                  "STM7sw22HqsXbz7D2CmJfmMwt9rimtk518dRzsR1f8Cgw52dQR1pR",
+                  "CREA7sw22HqsXbz7D2CmJfmMwt9rimtk518dRzsR1f8Cgw52dQR1pR",
                   1
                ]
             ],
@@ -954,14 +954,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"217306",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"1164",
             "nai":"@@000000021",
             "precision":3
@@ -971,7 +971,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"478868",
             "nai":"@@000000021",
             "precision":3
@@ -981,23 +981,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"428141",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-09-12T15:21:42",
-         "sbd_seconds":"0",
-         "sbd_seconds_last_update":"2018-09-12T15:21:42",
+         "cbd_last_interest_payment":"2018-09-12T15:21:42",
+         "cbd_seconds":"0",
+         "cbd_seconds_last_update":"2018-09-12T15:21:42",
          "to_withdraw":"604746709219120",
          "vesting_shares":{
             "amount":"58822357508745",
@@ -1009,8 +1009,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":9814,
+         "voting_flowbar":{
+            "current_flow":9814,
             "last_update_time":1534944933
          },
          "withdraw_routes":0,
@@ -1024,7 +1024,7 @@
             ],
             "key_auths":[
                [
-                  "STM7YtQZ7fwg7VE2U7wUPwdL2hWwtd3zR45XSPTk5dTirk7Mxud5z",
+                  "CREA7YtQZ7fwg7VE2U7wUPwdL2hWwtd3zR45XSPTk5dTirk7Mxud5z",
                   1
                ]
             ],
@@ -1054,7 +1054,7 @@
          "last_root_post":"2017-06-21T16:17:09",
          "last_vote_time":"2017-09-19T15:31:24",
          "lifetime_vote_count":0,
-         "memo_key":"STM5Jna5tmYoiNV7RyABdwYgRCKJGgbrt3EVB5RqzJvvx3ecG5YPp",
+         "memo_key":"CREA5Jna5tmYoiNV7RyABdwYgRCKJGgbrt3EVB5RqzJvvx3ecG5YPp",
          "mined":true,
          "name":"dantheman",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -1064,7 +1064,7 @@
             ],
             "key_auths":[
                [
-                  "STM7H7yZfed2GqkgdLuYy3VVrmQLV4htbiu1WGouRHsjjD4Kq1MvQ",
+                  "CREA7H7yZfed2GqkgdLuYy3VVrmQLV4htbiu1WGouRHsjjD4Kq1MvQ",
                   1
                ]
             ],
@@ -1077,7 +1077,7 @@
             ],
             "key_auths":[
                [
-                  "STM4yfYEjUoey4PLrKhnKFo1XKQZtZ77fWLnbGTr2mAUaSt2Sx9W4",
+                  "CREA4yfYEjUoey4PLrKhnKFo1XKQZtZ77fWLnbGTr2mAUaSt2Sx9W4",
                   1
                ]
             ],
@@ -1096,14 +1096,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"344",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1113,7 +1113,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"331",
             "nai":"@@000000021",
             "precision":3
@@ -1123,23 +1123,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"98633",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-07-11T02:11:54",
-         "sbd_seconds":"141376550208",
-         "sbd_seconds_last_update":"2018-07-27T16:22:33",
+         "cbd_last_interest_payment":"2018-07-11T02:11:54",
+         "cbd_seconds":"141376550208",
+         "cbd_seconds_last_update":"2018-07-27T16:22:33",
          "to_withdraw":"5191908265050262",
          "vesting_shares":{
             "amount":"212148717653",
@@ -1151,8 +1151,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":9800,
+         "voting_flowbar":{
+            "current_flow":9800,
             "last_update_time":1505835084
          },
          "withdraw_routes":0,
@@ -1166,7 +1166,7 @@
             ],
             "key_auths":[
                [
-                  "STM5cG8fH8yTLAjLj8UAie2C9uNNxQ79aCMLjAdpM3BtDqJdinJqR",
+                  "CREA5cG8fH8yTLAjLj8UAie2C9uNNxQ79aCMLjAdpM3BtDqJdinJqR",
                   1
                ]
             ],
@@ -1196,7 +1196,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM891t6fJ5fTGAXLYuGjWADCCd2zuaZ4pRHjFQQtQdLhhpGV8PXJ",
+         "memo_key":"CREA891t6fJ5fTGAXLYuGjWADCCd2zuaZ4pRHjFQQtQdLhhpGV8PXJ",
          "mined":false,
          "name":"gopax-deposit",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -1206,7 +1206,7 @@
             ],
             "key_auths":[
                [
-                  "STM8cqEEeMRpnxerAD6vR8SphDRiwEJJ6eQET79njhK1sBPN2B624",
+                  "CREA8cqEEeMRpnxerAD6vR8SphDRiwEJJ6eQET79njhK1sBPN2B624",
                   1
                ]
             ],
@@ -1219,7 +1219,7 @@
             ],
             "key_auths":[
                [
-                  "STM7Qg2Se4ZVvewP8MG2vWj2NpZbpFgznF9RthxqpxGpjidSJKJh2",
+                  "CREA7Qg2Se4ZVvewP8MG2vWj2NpZbpFgznF9RthxqpxGpjidSJKJh2",
                   1
                ]
             ],
@@ -1238,14 +1238,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1255,7 +1255,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1265,23 +1265,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"124541491",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-09-25T09:19:27",
-         "sbd_seconds":"327518130816",
-         "sbd_seconds_last_update":"2018-09-25T10:03:15",
+         "cbd_last_interest_payment":"2018-09-25T09:19:27",
+         "cbd_seconds":"327518130816",
+         "cbd_seconds_last_update":"2018-09-25T10:03:15",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"5315040746809",
@@ -1293,8 +1293,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1519246983
          },
          "withdraw_routes":0,
@@ -1308,7 +1308,7 @@
             ],
             "key_auths":[
                [
-                  "STM5qmHiqnHMWpAiLzvWieQfgezA8kGGC8XVj5ZQLH8Vq25XmKvSK",
+                  "CREA5qmHiqnHMWpAiLzvWieQfgezA8kGGC8XVj5ZQLH8Vq25XmKvSK",
                   1
                ]
             ],
@@ -1338,7 +1338,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM5qmHiqnHMWpAiLzvWieQfgezA8kGGC8XVj5ZQLH8Vq25XmKvSK",
+         "memo_key":"CREA5qmHiqnHMWpAiLzvWieQfgezA8kGGC8XVj5ZQLH8Vq25XmKvSK",
          "mined":true,
          "name":"holiday",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -1348,7 +1348,7 @@
             ],
             "key_auths":[
                [
-                  "STM5qmHiqnHMWpAiLzvWieQfgezA8kGGC8XVj5ZQLH8Vq25XmKvSK",
+                  "CREA5qmHiqnHMWpAiLzvWieQfgezA8kGGC8XVj5ZQLH8Vq25XmKvSK",
                   1
                ]
             ],
@@ -1361,7 +1361,7 @@
             ],
             "key_auths":[
                [
-                  "STM5qmHiqnHMWpAiLzvWieQfgezA8kGGC8XVj5ZQLH8Vq25XmKvSK",
+                  "CREA5qmHiqnHMWpAiLzvWieQfgezA8kGGC8XVj5ZQLH8Vq25XmKvSK",
                   1
                ]
             ],
@@ -1382,12 +1382,12 @@
          },
          "recovery_account":"",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1397,7 +1397,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1407,23 +1407,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "sbd_seconds":"0",
-         "sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "cbd_seconds":"0",
+         "cbd_seconds_last_update":"1970-01-01T00:00:00",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"12411284079",
@@ -1435,8 +1435,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1469467707
          },
          "withdraw_routes":0,
@@ -1450,7 +1450,7 @@
             ],
             "key_auths":[
                [
-                  "STM6JYHxWWAZjqTzBodrM98VumFkwv4MDVyzoV2fTmiWtMk1nhzFz",
+                  "CREA6JYHxWWAZjqTzBodrM98VumFkwv4MDVyzoV2fTmiWtMk1nhzFz",
                   1
                ]
             ],
@@ -1480,7 +1480,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM5scDwKHz6hac26R9pwjSjvHu6A42uvMKPjnxqUKtcGUnDAm3sw",
+         "memo_key":"CREA5scDwKHz6hac26R9pwjSjvHu6A42uvMKPjnxqUKtcGUnDAm3sw",
          "mined":false,
          "name":"huobi-withdrawal",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -1490,7 +1490,7 @@
             ],
             "key_auths":[
                [
-                  "STM6JYHxWWAZjqTzBodrM98VumFkwv4MDVyzoV2fTmiWtMk1nhzFz",
+                  "CREA6JYHxWWAZjqTzBodrM98VumFkwv4MDVyzoV2fTmiWtMk1nhzFz",
                   1
                ]
             ],
@@ -1503,7 +1503,7 @@
             ],
             "key_auths":[
                [
-                  "STM6JYHxWWAZjqTzBodrM98VumFkwv4MDVyzoV2fTmiWtMk1nhzFz",
+                  "CREA6JYHxWWAZjqTzBodrM98VumFkwv4MDVyzoV2fTmiWtMk1nhzFz",
                   1
                ]
             ],
@@ -1524,12 +1524,12 @@
          },
          "recovery_account":"enjoy-every-day",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1539,7 +1539,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1549,23 +1549,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"4",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-08-03T14:48:36",
-         "sbd_seconds":"0",
-         "sbd_seconds_last_update":"2018-08-03T14:48:36",
+         "cbd_last_interest_payment":"2018-08-03T14:48:36",
+         "cbd_seconds":"0",
+         "cbd_seconds_last_update":"2018-08-03T14:48:36",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"4079848926560",
@@ -1577,8 +1577,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1523877681
          },
          "withdraw_routes":0,
@@ -1592,7 +1592,7 @@
             ],
             "key_auths":[
                [
-                  "STM5xx1BwmT8RiGqv818PvsbyYHEjUgeRiTy6zW83fuGFbKeFSD7m",
+                  "CREA5xx1BwmT8RiGqv818PvsbyYHEjUgeRiTy6zW83fuGFbKeFSD7m",
                   1
                ]
             ],
@@ -1622,7 +1622,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"2016-07-07T06:05:09",
          "lifetime_vote_count":0,
-         "memo_key":"STM5xx1BwmT8RiGqv818PvsbyYHEjUgeRiTy6zW83fuGFbKeFSD7m",
+         "memo_key":"CREA5xx1BwmT8RiGqv818PvsbyYHEjUgeRiTy6zW83fuGFbKeFSD7m",
          "mined":false,
          "name":"imadev",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -1632,7 +1632,7 @@
             ],
             "key_auths":[
                [
-                  "STM5xx1BwmT8RiGqv818PvsbyYHEjUgeRiTy6zW83fuGFbKeFSD7m",
+                  "CREA5xx1BwmT8RiGqv818PvsbyYHEjUgeRiTy6zW83fuGFbKeFSD7m",
                   1
                ]
             ],
@@ -1645,7 +1645,7 @@
             ],
             "key_auths":[
                [
-                  "STM5xx1BwmT8RiGqv818PvsbyYHEjUgeRiTy6zW83fuGFbKeFSD7m",
+                  "CREA5xx1BwmT8RiGqv818PvsbyYHEjUgeRiTy6zW83fuGFbKeFSD7m",
                   1
                ]
             ],
@@ -1664,14 +1664,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1681,7 +1681,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1691,23 +1691,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"453",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-08-19T04:52:03",
-         "sbd_seconds":"0",
-         "sbd_seconds_last_update":"2018-08-19T04:52:03",
+         "cbd_last_interest_payment":"2018-08-19T04:52:03",
+         "cbd_seconds":"0",
+         "cbd_seconds_last_update":"2018-08-19T04:52:03",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"445256469401562",
@@ -1719,8 +1719,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":9949,
+         "voting_flowbar":{
+            "current_flow":9949,
             "last_update_time":1467871509
          },
          "withdraw_routes":0,
@@ -1734,7 +1734,7 @@
             ],
             "key_auths":[
                [
-                  "STM51YzKtMxxfWrNhNtuWbieuXL6mgYFfY43EM7D1pnjbPSdbeTaC",
+                  "CREA51YzKtMxxfWrNhNtuWbieuXL6mgYFfY43EM7D1pnjbPSdbeTaC",
                   1
                ]
             ],
@@ -1764,7 +1764,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM5QESPNVeGVvU1fsSw1Ekr8vBng2cPYyXPVWbutBGbVRMNF28H7",
+         "memo_key":"CREA5QESPNVeGVvU1fsSw1Ekr8vBng2cPYyXPVWbutBGbVRMNF28H7",
          "mined":false,
          "name":"korbit3",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -1774,7 +1774,7 @@
             ],
             "key_auths":[
                [
-                  "STM5tm2cZSQQcDDHejk8QPTF6KeAXrFaZM5r3QsJs3GW6LxQkHM2f",
+                  "CREA5tm2cZSQQcDDHejk8QPTF6KeAXrFaZM5r3QsJs3GW6LxQkHM2f",
                   1
                ]
             ],
@@ -1787,7 +1787,7 @@
             ],
             "key_auths":[
                [
-                  "STM6riCFLd4sUqwbeow1DvUNyiYsfp94szzViAd3kSAMWdPNgAUjU",
+                  "CREA6riCFLd4sUqwbeow1DvUNyiYsfp94szzViAd3kSAMWdPNgAUjU",
                   1
                ]
             ],
@@ -1808,12 +1808,12 @@
          },
          "recovery_account":"mavicpro",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1823,7 +1823,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1833,23 +1833,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "sbd_seconds":"0",
-         "sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "cbd_seconds":"0",
+         "cbd_seconds_last_update":"1970-01-01T00:00:00",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"202431338",
@@ -1861,8 +1861,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1535009544
          },
          "withdraw_routes":0,
@@ -1876,7 +1876,7 @@
             ],
             "key_auths":[
                [
-                  "STM5KcWhVqtvMn4f1xMSdALoNTU3T6H6odPM2huW4GiPTVm8xCeaD",
+                  "CREA5KcWhVqtvMn4f1xMSdALoNTU3T6H6odPM2huW4GiPTVm8xCeaD",
                   1
                ]
             ],
@@ -1906,7 +1906,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM62Uu5tdGhUThaxvwB5m3fdC9d16zTtVJz8VxKczcafCXADiA53",
+         "memo_key":"CREA62Uu5tdGhUThaxvwB5m3fdC9d16zTtVJz8VxKczcafCXADiA53",
          "mined":false,
          "name":"muchfun",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -1916,7 +1916,7 @@
             ],
             "key_auths":[
                [
-                  "STM6vo2e4bt5nTVWmwqncMUpdSfGbaJgy1bQrLdEj4rJpd2auAK4T",
+                  "CREA6vo2e4bt5nTVWmwqncMUpdSfGbaJgy1bQrLdEj4rJpd2auAK4T",
                   1
                ]
             ],
@@ -1929,7 +1929,7 @@
             ],
             "key_auths":[
                [
-                  "STM73PEZAcT88EtkHvU8xHYe1GBP64eXFF1zW5fi2XCqZMLBccsA6",
+                  "CREA73PEZAcT88EtkHvU8xHYe1GBP64eXFF1zW5fi2XCqZMLBccsA6",
                   1
                ]
             ],
@@ -1948,14 +1948,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"anonsteem",
+         "recovery_account":"anoncrea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1965,7 +1965,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -1975,23 +1975,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"103",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-06-02T10:41:00",
-         "sbd_seconds":"0",
-         "sbd_seconds_last_update":"2018-06-02T10:41:00",
+         "cbd_last_interest_payment":"2018-06-02T10:41:00",
+         "cbd_seconds":"0",
+         "cbd_seconds_last_update":"2018-06-02T10:41:00",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"12360924266",
@@ -2003,8 +2003,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1505726526
          },
          "withdraw_routes":0,
@@ -2018,7 +2018,7 @@
             ],
             "key_auths":[
                [
-                  "STM7RyrKG8e3fUtPD2JH9AB8K1p7ypsLUDPMuiV1gtD4DbNuk6nBw",
+                  "CREA7RyrKG8e3fUtPD2JH9AB8K1p7ypsLUDPMuiV1gtD4DbNuk6nBw",
                   1
                ]
             ],
@@ -2048,7 +2048,7 @@
          "last_root_post":"2018-09-25T15:21:48",
          "last_vote_time":"2018-08-24T17:51:48",
          "lifetime_vote_count":0,
-         "memo_key":"STM6sUWU9dtss1N8m7tQfUt7PacNHACrt3jBZNtkYkMMBv3e4CH3p",
+         "memo_key":"CREA6sUWU9dtss1N8m7tQfUt7PacNHACrt3jBZNtkYkMMBv3e4CH3p",
          "mined":false,
          "name":"ned",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -2058,7 +2058,7 @@
             ],
             "key_auths":[
                [
-                  "STM71f6yWztimJuREVyyMXNqAVbx1FzPVW6LLXNoQ35dHwKuszmHX",
+                  "CREA71f6yWztimJuREVyyMXNqAVbx1FzPVW6LLXNoQ35dHwKuszmHX",
                   1
                ]
             ],
@@ -2071,7 +2071,7 @@
             ],
             "key_auths":[
                [
-                  "STM6rHZiAKHZS19RSJuRmn3mdukj95AYgUNFCEgnm8jhZE3rcH72P",
+                  "CREA6rHZiAKHZS19RSJuRmn3mdukj95AYgUNFCEgnm8jhZE3rcH72P",
                   1
                ]
             ],
@@ -2090,14 +2090,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"1063532",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"6001",
             "nai":"@@000000021",
             "precision":3
@@ -2107,7 +2107,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"4186572",
             "nai":"@@000000021",
             "precision":3
@@ -2117,23 +2117,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"1249949",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"2017-01-01T19:19:27",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"2017-01-01T19:19:27",
+         "savings_cbd_last_interest_payment":"2017-01-01T19:19:27",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"2017-01-01T19:19:27",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"5754660",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-09-19T10:26:15",
-         "sbd_seconds":"203801248485",
-         "sbd_seconds_last_update":"2018-09-19T20:16:30",
+         "cbd_last_interest_payment":"2018-09-19T10:26:15",
+         "cbd_seconds":"203801248485",
+         "cbd_seconds_last_update":"2018-09-19T20:16:30",
          "to_withdraw":"3656023893771860",
          "vesting_shares":{
             "amount":"3688117088905014",
@@ -2145,8 +2145,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":9800,
+         "voting_flowbar":{
+            "current_flow":9800,
             "last_update_time":1535133108
          },
          "withdraw_routes":0,
@@ -2160,7 +2160,7 @@
             ],
             "key_auths":[
                [
-                  "STM6QweXbi7vwhZzuvzAg3dRiasHVuVwnR6gvMVKdKstgRT9QhxVi",
+                  "CREA6QweXbi7vwhZzuvzAg3dRiasHVuVwnR6gvMVKdKstgRT9QhxVi",
                   1
                ]
             ],
@@ -2190,7 +2190,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM7DMYXTBfxciHdMrYdk42WNyvAFzqfApDy6wS1MpcMuG8SVusU1",
+         "memo_key":"CREA7DMYXTBfxciHdMrYdk42WNyvAFzqfApDy6wS1MpcMuG8SVusU1",
          "mined":false,
          "name":"openledger-dex",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -2200,7 +2200,7 @@
             ],
             "key_auths":[
                [
-                  "STM6UbAVFefkDqUz7fA8WAEK9Tt91YTsd4GF5jWi6qAFyQ2YxyT23",
+                  "CREA6UbAVFefkDqUz7fA8WAEK9Tt91YTsd4GF5jWi6qAFyQ2YxyT23",
                   1
                ]
             ],
@@ -2213,7 +2213,7 @@
             ],
             "key_auths":[
                [
-                  "STM6W4ZzW2ubFxuWQPXf9H3dZQSsKqp5qXV3nJ7i2cnyDN9MsNqa4",
+                  "CREA6W4ZzW2ubFxuWQPXf9H3dZQSsKqp5qXV3nJ7i2cnyDN9MsNqa4",
                   1
                ]
             ],
@@ -2232,14 +2232,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -2249,7 +2249,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -2259,23 +2259,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"128768644",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-08-29T10:19:45",
-         "sbd_seconds":"310139068136544",
-         "sbd_seconds_last_update":"2018-09-25T08:36:00",
+         "cbd_last_interest_payment":"2018-08-29T10:19:45",
+         "cbd_seconds":"310139068136544",
+         "cbd_seconds_last_update":"2018-09-25T08:36:00",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"3059486764",
@@ -2287,8 +2287,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1499855313
          },
          "withdraw_routes":0,
@@ -2302,7 +2302,7 @@
             ],
             "key_auths":[
                [
-                  "STM6TUdesaTHa1cxFWZKsFobxB66DKknnyM7xQHiykXnJWUXPKfgv",
+                  "CREA6TUdesaTHa1cxFWZKsFobxB66DKknnyM7xQHiykXnJWUXPKfgv",
                   1
                ]
             ],
@@ -2332,7 +2332,7 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM6TUdesaTHa1cxFWZKsFobxB66DKknnyM7xQHiykXnJWUXPKfgv",
+         "memo_key":"CREA6TUdesaTHa1cxFWZKsFobxB66DKknnyM7xQHiykXnJWUXPKfgv",
          "mined":false,
          "name":"poloniex",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
@@ -2342,11 +2342,11 @@
             ],
             "key_auths":[
                [
-                  "STM6TUdesaTHa1cxFWZKsFobxB66DKknnyM7xQHiykXnJWUXPKfgv",
+                  "CREA6TUdesaTHa1cxFWZKsFobxB66DKknnyM7xQHiykXnJWUXPKfgv",
                   1
                ],
                [
-                  "STM7zYj11nK6E1c6shrLCZK9PQWXd3xbcFXcuQPvRVx2kRru4ESB4",
+                  "CREA7zYj11nK6E1c6shrLCZK9PQWXd3xbcFXcuQPvRVx2kRru4ESB4",
                   1
                ]
             ],
@@ -2359,7 +2359,7 @@
             ],
             "key_auths":[
                [
-                  "STM6TUdesaTHa1cxFWZKsFobxB66DKknnyM7xQHiykXnJWUXPKfgv",
+                  "CREA6TUdesaTHa1cxFWZKsFobxB66DKknnyM7xQHiykXnJWUXPKfgv",
                   1
                ]
             ],
@@ -2378,14 +2378,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -2395,7 +2395,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -2405,23 +2405,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"435522088",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-09-04T07:06:03",
-         "sbd_seconds":"567298087699263",
-         "sbd_seconds_last_update":"2018-09-19T08:57:15",
+         "cbd_last_interest_payment":"2018-09-04T07:06:03",
+         "cbd_seconds":"567298087699263",
+         "cbd_seconds_last_update":"2018-09-19T08:57:15",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"4404577000000",
@@ -2433,8 +2433,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1460156352
          },
          "withdraw_routes":0,
@@ -2448,11 +2448,11 @@
             ],
             "key_auths":[
                [
-                  "STM5VkLha96X5EQu3HSkJdD8SEuwazWtZrzLjUT6Sc5sopgghBYrz",
+                  "CREA5VkLha96X5EQu3HSkJdD8SEuwazWtZrzLjUT6Sc5sopgghBYrz",
                   1
                ],
                [
-                  "STM7u1BsoqLaoCu9XHi1wjWctLWSFCuvyagFjYMfga4QNWEjP7d3U",
+                  "CREA7u1BsoqLaoCu9XHi1wjWctLWSFCuvyagFjYMfga4QNWEjP7d3U",
                   1
                ]
             ],
@@ -2482,9 +2482,9 @@
          "last_root_post":"2016-03-30T18:30:18",
          "last_vote_time":"2016-12-04T23:10:57",
          "lifetime_vote_count":0,
-         "memo_key":"STM5jZtLoV8YbxCxr4imnbWn61zMB24wwonpnVhfXRmv7j6fk3dTH",
+         "memo_key":"CREA5jZtLoV8YbxCxr4imnbWn61zMB24wwonpnVhfXRmv7j6fk3dTH",
          "mined":true,
-         "name":"steemit",
+         "name":"creary",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
          "owner":{
             "account_auths":[
@@ -2492,11 +2492,11 @@
             ],
             "key_auths":[
                [
-                  "STM6Ezkzey8FWoEnnHHP4rxbrysJqoMmzwR2EdoD5p7FDsF64qxbQ",
+                  "CREA6Ezkzey8FWoEnnHHP4rxbrysJqoMmzwR2EdoD5p7FDsF64qxbQ",
                   1
                ],
                [
-                  "STM7TCZKisQnvR69CK9BaL6W4SJn2cXYwkfWYRicoVGGzhtFswxMH",
+                  "CREA7TCZKisQnvR69CK9BaL6W4SJn2cXYwkfWYRicoVGGzhtFswxMH",
                   1
                ]
             ],
@@ -2509,11 +2509,11 @@
             ],
             "key_auths":[
                [
-                  "STM6kXdRbWgoH9E4hvtTZeaiSbY8FmGXQavfJZ2jzkKjT5cWYgMBS",
+                  "CREA6kXdRbWgoH9E4hvtTZeaiSbY8FmGXQavfJZ2jzkKjT5cWYgMBS",
                   1
                ],
                [
-                  "STM6tDMSSKa8Bd9ss7EjqhXPEHTWissGXJJosAU94LLpC5tsCdo61",
+                  "CREA6tDMSSKa8Bd9ss7EjqhXPEHTWissGXJJosAU94LLpC5tsCdo61",
                   1
                ]
             ],
@@ -2532,14 +2532,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -2549,7 +2549,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -2559,23 +2559,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"8582545",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-09-11T20:05:06",
-         "sbd_seconds":"5934494456784",
-         "sbd_seconds_last_update":"2018-09-19T20:09:27",
+         "cbd_last_interest_payment":"2018-09-11T20:05:06",
+         "cbd_seconds":"5934494456784",
+         "cbd_seconds_last_update":"2018-09-19T20:09:27",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"90039851836689703",
@@ -2587,8 +2587,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":9950,
+         "voting_flowbar":{
+            "current_flow":9950,
             "last_update_time":1480893057
          },
          "withdraw_routes":0,
@@ -2602,11 +2602,11 @@
             ],
             "key_auths":[
                [
-                  "STM5UGkrbjCS3WXFAES6Ee9HAvWKByhTgMJ1nPnfnWfY24kC1sjas",
+                  "CREA5UGkrbjCS3WXFAES6Ee9HAvWKByhTgMJ1nPnfnWfY24kC1sjas",
                   1
                ],
                [
-                  "STM5rEcHTTZskreMHtPsws8QSVpZJQDSRRoavt9MUtd49YRAvZtMF",
+                  "CREA5rEcHTTZskreMHtPsws8QSVpZJQDSRRoavt9MUtd49YRAvZtMF",
                   1
                ]
             ],
@@ -2636,9 +2636,9 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"2017-09-06T21:15:15",
          "lifetime_vote_count":0,
-         "memo_key":"STM65wH1LZ7BfSHcK69SShnqCAH5xdoSZpGkUjmzHJ5GCuxEK9V5G",
+         "memo_key":"CREA65wH1LZ7BfSHcK69SShnqCAH5xdoSZpGkUjmzHJ5GCuxEK9V5G",
          "mined":true,
-         "name":"steemit2",
+         "name":"creary2",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
          "owner":{
             "account_auths":[
@@ -2646,11 +2646,11 @@
             ],
             "key_auths":[
                [
-                  "STM72MxAKTBp3zsJCC13mhM8LHmFWfpy3dSJJ7JR9dFeRhtYMRJti",
+                  "CREA72MxAKTBp3zsJCC13mhM8LHmFWfpy3dSJJ7JR9dFeRhtYMRJti",
                   1
                ],
                [
-                  "STM7AyEDcBWCrwyMCxWHg1L9PGqHqN9eRaN7yQAwJZooSRJGCq6Gv",
+                  "CREA7AyEDcBWCrwyMCxWHg1L9PGqHqN9eRaN7yQAwJZooSRJGCq6Gv",
                   1
                ]
             ],
@@ -2663,11 +2663,11 @@
             ],
             "key_auths":[
                [
-                  "STM5VbKJdoGNXRQ2E79UjxVwUiZEQh4c16QfTBnD16gW2EfrKPcQS",
+                  "CREA5VbKJdoGNXRQ2E79UjxVwUiZEQh4c16QfTBnD16gW2EfrKPcQS",
                   1
                ],
                [
-                  "STM7zFMiCjeyEzJ1ScvZHM4BmbDgf14KGgiV8WEkLss2Gu49VbSCN",
+                  "CREA7zFMiCjeyEzJ1ScvZHM4BmbDgf14KGgiV8WEkLss2Gu49VbSCN",
                   1
                ]
             ],
@@ -2686,14 +2686,14 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "recovery_account":"steem",
+         "recovery_account":"crea",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -2703,7 +2703,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -2713,23 +2713,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"4992073",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-08-19T03:51:30",
-         "sbd_seconds":"10213554668760",
-         "sbd_seconds_last_update":"2018-09-11T20:10:45",
+         "cbd_last_interest_payment":"2018-08-19T03:51:30",
+         "cbd_seconds":"10213554668760",
+         "cbd_seconds_last_update":"2018-09-11T20:10:45",
          "to_withdraw":"250125445711876",
          "vesting_shares":{
             "amount":"20533048933828",
@@ -2741,8 +2741,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":9800,
+         "voting_flowbar":{
+            "current_flow":9800,
             "last_update_time":1504732515
          },
          "withdraw_routes":0,
@@ -2756,7 +2756,7 @@
             ],
             "key_auths":[
                [
-                  "STM6ScjTEANAbTvrE3yHLGHkX84KVKFQgFQhSRk7shAe9JK6EwPmQ",
+                  "CREA6ScjTEANAbTvrE3yHLGHkX84KVKFQgFQhSRk7shAe9JK6EwPmQ",
                   1
                ]
             ],
@@ -2786,9 +2786,9 @@
          "last_root_post":"1970-01-01T00:00:00",
          "last_vote_time":"1970-01-01T00:00:00",
          "lifetime_vote_count":0,
-         "memo_key":"STM5LUU9PF1yZDRUfLEb9Bh8AJLqEFsKKYrLySDratxk8ESqJYGf1",
+         "memo_key":"CREA5LUU9PF1yZDRUfLEb9Bh8AJLqEFsKKYrLySDratxk8ESqJYGf1",
          "mined":false,
-         "name":"upbitsteemhot",
+         "name":"upbitcreahot",
          "next_vesting_withdrawal":"1969-12-31T23:59:59",
          "owner":{
             "account_auths":[
@@ -2796,7 +2796,7 @@
             ],
             "key_auths":[
                [
-                  "STM8ChALDU1bwkiLHn9KYWk2xRN5coiRXYmt925fLiC4kQYADRdTF",
+                  "CREA8ChALDU1bwkiLHn9KYWk2xRN5coiRXYmt925fLiC4kQYADRdTF",
                   1
                ]
             ],
@@ -2809,7 +2809,7 @@
             ],
             "key_auths":[
                [
-                  "STM8bQuSYJhU8EB9FJHyuHWTCccNsJE9QRvwiCu2DYUJMySa9SERQ",
+                  "CREA8bQuSYJhU8EB9FJHyuHWTCccNsJE9QRvwiCu2DYUJMySa9SERQ",
                   1
                ]
             ],
@@ -2830,12 +2830,12 @@
          },
          "recovery_account":"upbit-s-exchange",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -2845,7 +2845,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -2855,23 +2855,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"1970-01-01T00:00:00",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"1970-01-01T00:00:00",
+         "savings_cbd_last_interest_payment":"1970-01-01T00:00:00",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"1970-01-01T00:00:00",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"437308268",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-08-25T08:48:15",
-         "sbd_seconds":"1007406639205854",
-         "sbd_seconds_last_update":"2018-09-17T11:43:06",
+         "cbd_last_interest_payment":"2018-08-25T08:48:15",
+         "cbd_seconds":"1007406639205854",
+         "cbd_seconds_last_update":"2018-09-17T11:43:06",
          "to_withdraw":0,
          "vesting_shares":{
             "amount":"2033434440465",
@@ -2883,8 +2883,8 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "voting_manabar":{
-            "current_mana":10000,
+         "voting_flowbar":{
+            "current_flow":10000,
             "last_update_time":1531799607
          },
          "withdraw_routes":0,
@@ -2903,293 +2903,293 @@
                   1
                ],
                [
-                  "steem",
+                  "crea",
                   1
                ]
             ],
             "key_auths":[
                [
-                  "STM4tcBtAKuaHwxZQVQm3crNu3fnntQgqGuCY8FB5ToPaqfudBRbL",
+                  "CREA4tcBtAKuaHwxZQVQm3crNu3fnntQgqGuCY8FB5ToPaqfudBRbL",
                   1
                ],
                [
-                  "STM4u9AsZJatTUoKgsTozMgpAggEC1v1viZbfNLMQEGvC9w7wYgJp",
+                  "CREA4u9AsZJatTUoKgsTozMgpAggEC1v1viZbfNLMQEGvC9w7wYgJp",
                   1
                ],
                [
-                  "STM4zL2ghUfdoUXhZo3QJgfC3jECjocSdZjhBVFjmp9Nk28CLhtqV",
+                  "CREA4zL2ghUfdoUXhZo3QJgfC3jECjocSdZjhBVFjmp9Nk28CLhtqV",
                   1
                ],
                [
-                  "STM55GQUShKKqnMrXyrYo3nvwBe7YUGtxELreHnAWbMYqSNiAopRh",
+                  "CREA55GQUShKKqnMrXyrYo3nvwBe7YUGtxELreHnAWbMYqSNiAopRh",
                   1
                ],
                [
-                  "STM563dEnF4JNwt2uoU4kxh8kBH1qRhQ7QU7oRBifi1KmhgwdVneD",
+                  "CREA563dEnF4JNwt2uoU4kxh8kBH1qRhQ7QU7oRBifi1KmhgwdVneD",
                   1
                ],
                [
-                  "STM56QCnp8za1QeUwNBxnhHBsG3Mv2Y1wneh1KbRU9GBr65jZJowk",
+                  "CREA56QCnp8za1QeUwNBxnhHBsG3Mv2Y1wneh1KbRU9GBr65jZJowk",
                   1
                ],
                [
-                  "STM58dUdo79DowQMFHJA48wwseypEXdNdcL38racTjdvh9Ak76Yqn",
+                  "CREA58dUdo79DowQMFHJA48wwseypEXdNdcL38racTjdvh9Ak76Yqn",
                   1
                ],
                [
-                  "STM5C1BA2fB3X6j3hUdpoRQhKreBNeVeaooPxYt7XAsMt1DkyfVMY",
+                  "CREA5C1BA2fB3X6j3hUdpoRQhKreBNeVeaooPxYt7XAsMt1DkyfVMY",
                   1
                ],
                [
-                  "STM5CUcAQdpqmBshuntCek5PQxi4tXE6ARfv589TN6DQGG5DHaZgE",
+                  "CREA5CUcAQdpqmBshuntCek5PQxi4tXE6ARfv589TN6DQGG5DHaZgE",
                   1
                ],
                [
-                  "STM5DjUjnXM9yGuko3ATAcmW68mnSanVfTwGqvumg1qdmm5mrgepH",
+                  "CREA5DjUjnXM9yGuko3ATAcmW68mnSanVfTwGqvumg1qdmm5mrgepH",
                   1
                ],
                [
-                  "STM5EjvYyhZDD4QwgdXLGetoTg23WbyzS1eFxBNPsYv8pfufas4Bk",
+                  "CREA5EjvYyhZDD4QwgdXLGetoTg23WbyzS1eFxBNPsYv8pfufas4Bk",
                   1
                ],
                [
-                  "STM5HJWutvgCo2KK6XaPGS5FoLbvGueZvkLerZm3rJDU8pK4Rig6m",
+                  "CREA5HJWutvgCo2KK6XaPGS5FoLbvGueZvkLerZm3rJDU8pK4Rig6m",
                   1
                ],
                [
-                  "STM5Nk5SorkgXv5Qd4DDVu5g8YR8UsGEwVR6tXaNmZ5TTERADJyx2",
+                  "CREA5Nk5SorkgXv5Qd4DDVu5g8YR8UsGEwVR6tXaNmZ5TTERADJyx2",
                   1
                ],
                [
-                  "STM5cQbv4HhMQ76CGiE9GE87RE2Zkyojju3GqQHTX4MePxU7JhH4S",
+                  "CREA5cQbv4HhMQ76CGiE9GE87RE2Zkyojju3GqQHTX4MePxU7JhH4S",
                   1
                ],
                [
-                  "STM5h7kQegkxY9Y6CYxqYxNw5VGANaTMMy9D8LKeydJ76QEzBhuhr",
+                  "CREA5h7kQegkxY9Y6CYxqYxNw5VGANaTMMy9D8LKeydJ76QEzBhuhr",
                   1
                ],
                [
-                  "STM5i4xRh8vvan8HaiawsHggH54qhy9nokARtdH4SAXa1VzTZ2D36",
+                  "CREA5i4xRh8vvan8HaiawsHggH54qhy9nokARtdH4SAXa1VzTZ2D36",
                   1
                ],
                [
-                  "STM5reWks7gqnD8HSAacZWGJURRnKR3az5WEUsW7RtRsSL7ea5rQx",
+                  "CREA5reWks7gqnD8HSAacZWGJURRnKR3az5WEUsW7RtRsSL7ea5rQx",
                   1
                ],
                [
-                  "STM5wXYGhMogrBt6M5w7jmLiyUWhxDPrSwyZWnMaysHsG8od9paP7",
+                  "CREA5wXYGhMogrBt6M5w7jmLiyUWhxDPrSwyZWnMaysHsG8od9paP7",
                   1
                ],
                [
-                  "STM5zHg31CwmjZUkxh6p5LiB1ZzStt8JvjwSkjkKUbJS2t33BYKLs",
+                  "CREA5zHg31CwmjZUkxh6p5LiB1ZzStt8JvjwSkjkKUbJS2t33BYKLs",
                   1
                ],
                [
-                  "STM5zwtu9A53pHjmq7cVHnW2Apzw4FPoY4FNdLPko7dMopuKYtMFg",
+                  "CREA5zwtu9A53pHjmq7cVHnW2Apzw4FPoY4FNdLPko7dMopuKYtMFg",
                   1
                ],
                [
-                  "STM62gdsooY8PMfVCbfmEACMR8765zh4tzxzrmMwiB5MmL6BBpiPs",
+                  "CREA62gdsooY8PMfVCbfmEACMR8765zh4tzxzrmMwiB5MmL6BBpiPs",
                   1
                ],
                [
-                  "STM66QBmAmDbFPfZgADubhQr7wux5vjPKxqUvHfDotzj3UPGPXDfM",
+                  "CREA66QBmAmDbFPfZgADubhQr7wux5vjPKxqUvHfDotzj3UPGPXDfM",
                   1
                ],
                [
-                  "STM68kA4cf2FWav8NPvZ3VCECH1hi8g2QSCZsh2GzzqDsYtAnMYPK",
+                  "CREA68kA4cf2FWav8NPvZ3VCECH1hi8g2QSCZsh2GzzqDsYtAnMYPK",
                   1
                ],
                [
-                  "STM6C2Lsy6wYNaGVESD3QZsgDnGCGQxVFeo9gttbhCqbbb2Evkp2Y",
+                  "CREA6C2Lsy6wYNaGVESD3QZsgDnGCGQxVFeo9gttbhCqbbb2Evkp2Y",
                   1
                ],
                [
-                  "STM6DDLsiLY4Hf8vEkm9Z9RRykUhkZMwZuweG7MYhJSTv6XAohUEK",
+                  "CREA6DDLsiLY4Hf8vEkm9Z9RRykUhkZMwZuweG7MYhJSTv6XAohUEK",
                   1
                ],
                [
-                  "STM6DhX9Xmtj4vwJfdPuPSCJvdjzQPWqtD63owLZszBdhw58hNcmf",
+                  "CREA6DhX9Xmtj4vwJfdPuPSCJvdjzQPWqtD63owLZszBdhw58hNcmf",
                   1
                ],
                [
-                  "STM6FJSPJHpyfG93z6MiK9DA2uVUn97y19h44evf9sWNwMnV8b4Tu",
+                  "CREA6FJSPJHpyfG93z6MiK9DA2uVUn97y19h44evf9sWNwMnV8b4Tu",
                   1
                ],
                [
-                  "STM6H9nfMsCdbthBLDFQAKHkASUr4M6i5qzDm3S2RicajHwuCUmUz",
+                  "CREA6H9nfMsCdbthBLDFQAKHkASUr4M6i5qzDm3S2RicajHwuCUmUz",
                   1
                ],
                [
-                  "STM6V2cPXD8PrZCtCGpFX5fBwSuD6yF3xeDbzmohSs62VsdvxAy4x",
+                  "CREA6V2cPXD8PrZCtCGpFX5fBwSuD6yF3xeDbzmohSs62VsdvxAy4x",
                   1
                ],
                [
-                  "STM6XGhvfH1RSvVPLjk4fom6h7ffvh78XDtzKzQs8mshHnykWkHMz",
+                  "CREA6XGhvfH1RSvVPLjk4fom6h7ffvh78XDtzKzQs8mshHnykWkHMz",
                   1
                ],
                [
-                  "STM6a5Nzsc7pZJjp3FRbGe1dK5TW8ttMkKYsndTHZnfKw7u1m5oqG",
+                  "CREA6a5Nzsc7pZJjp3FRbGe1dK5TW8ttMkKYsndTHZnfKw7u1m5oqG",
                   1
                ],
                [
-                  "STM6aHqhdQNJVHpZ9TKGgks351FE5MSzzqyNfxYnetHNG3h2J8bsY",
+                  "CREA6aHqhdQNJVHpZ9TKGgks351FE5MSzzqyNfxYnetHNG3h2J8bsY",
                   1
                ],
                [
-                  "STM6dd43qaCWXGqbBbKWLK4bDfrpt4YoTwoUUsA7f1fh628dXGoiP",
+                  "CREA6dd43qaCWXGqbBbKWLK4bDfrpt4YoTwoUUsA7f1fh628dXGoiP",
                   1
                ],
                [
-                  "STM6i3W78RoZRU7snEJHG3ViqBkqiY32DSCB9mQQVDGZmRp2BdNvC",
+                  "CREA6i3W78RoZRU7snEJHG3ViqBkqiY32DSCB9mQQVDGZmRp2BdNvC",
                   1
                ],
                [
-                  "STM6i7k75ADDnwW3N5FGNPpXC4ipDg9ThwcV5f7medMKQaU4pudyr",
+                  "CREA6i7k75ADDnwW3N5FGNPpXC4ipDg9ThwcV5f7medMKQaU4pudyr",
                   1
                ],
                [
-                  "STM6rbjX6cTw48wZpUyWM5KmzJJ4EMPCgDeU7SAixYrAwwpzL3bxS",
+                  "CREA6rbjX6cTw48wZpUyWM5KmzJJ4EMPCgDeU7SAixYrAwwpzL3bxS",
                   1
                ],
                [
-                  "STM6sdKrA3R1fV4QUChhTFXPB82oBW1ufJoxjxsAbYPpKs7Q3pxr4",
+                  "CREA6sdKrA3R1fV4QUChhTFXPB82oBW1ufJoxjxsAbYPpKs7Q3pxr4",
                   1
                ],
                [
-                  "STM6uLwZAXS6urHx1TmcCxThrG6oFoWgLUwsLZhPxQa4GnfpZ8Gka",
+                  "CREA6uLwZAXS6urHx1TmcCxThrG6oFoWgLUwsLZhPxQa4GnfpZ8Gka",
                   1
                ],
                [
-                  "STM6uRchNpg8oRyUyoFsdTxvuU7WpaNYum4cT6duHAjUGdfFdEKhZ",
+                  "CREA6uRchNpg8oRyUyoFsdTxvuU7WpaNYum4cT6duHAjUGdfFdEKhZ",
                   1
                ],
                [
-                  "STM6xACU35hf6gmAGfhpKjqGcRv3e8HYXo3riG5CbxF8z59Awidvy",
+                  "CREA6xACU35hf6gmAGfhpKjqGcRv3e8HYXo3riG5CbxF8z59Awidvy",
                   1
                ],
                [
-                  "STM71V7tfo3CuUm5MNfeYjX1szQS45znWPBh1JExXmrHgU5DSGXxW",
+                  "CREA71V7tfo3CuUm5MNfeYjX1szQS45znWPBh1JExXmrHgU5DSGXxW",
                   1
                ],
                [
-                  "STM74P2mgetcPgHB4w3jYaEuHaE6htuLSKPq6F4ZKxa1UTvcqnwiX",
+                  "CREA74P2mgetcPgHB4w3jYaEuHaE6htuLSKPq6F4ZKxa1UTvcqnwiX",
                   1
                ],
                [
-                  "STM75N5f5bMzHzLiCV6wKvSnkoajWZXQJgA7qycznMp14VQiVPHuH",
+                  "CREA75N5f5bMzHzLiCV6wKvSnkoajWZXQJgA7qycznMp14VQiVPHuH",
                   1
                ],
                [
-                  "STM7Cfu3HZZEucHu9hcA2tBNA4bBUUWWjKdVVqGDKwZEpDM1wpEgS",
+                  "CREA7Cfu3HZZEucHu9hcA2tBNA4bBUUWWjKdVVqGDKwZEpDM1wpEgS",
                   1
                ],
                [
-                  "STM7F2FZAv6ZfWsLoDg6oVarP9oKxmNEmJ67j6f74XGmeyirene5x",
+                  "CREA7F2FZAv6ZfWsLoDg6oVarP9oKxmNEmJ67j6f74XGmeyirene5x",
                   1
                ],
                [
-                  "STM7N5pVrWzPtmjZoUqakRD4iqPhf5d6hbnAx74JLsJNH2CmjnSYL",
+                  "CREA7N5pVrWzPtmjZoUqakRD4iqPhf5d6hbnAx74JLsJNH2CmjnSYL",
                   1
                ],
                [
-                  "STM7QPQQ6D8jNN5U2TEzpVH3Q2848ecTXzE6w93rRgfdHTbdbQqqH",
+                  "CREA7QPQQ6D8jNN5U2TEzpVH3Q2848ecTXzE6w93rRgfdHTbdbQqqH",
                   1
                ],
                [
-                  "STM7SU2ZSAJGuRqJjVALMXfiuJgXMBkKTeK1zwtHajqM6yEd7jHuZ",
+                  "CREA7SU2ZSAJGuRqJjVALMXfiuJgXMBkKTeK1zwtHajqM6yEd7jHuZ",
                   1
                ],
                [
-                  "STM7SXSn7rkRErdiR8BnhTUEXnfiqr2nevwjhHmZ7iVMpn8DuxA68",
+                  "CREA7SXSn7rkRErdiR8BnhTUEXnfiqr2nevwjhHmZ7iVMpn8DuxA68",
                   1
                ],
                [
-                  "STM7TrSwQM7FGeiytbYpVJLE96qCPjXA8ZpYVHWH4kiaVkwCnKzKp",
+                  "CREA7TrSwQM7FGeiytbYpVJLE96qCPjXA8ZpYVHWH4kiaVkwCnKzKp",
                   1
                ],
                [
-                  "STM7UTrrLFquSwaLMkJkyvt44i6nGnQGyQGW8K2vjaT1TCw7t5Wjm",
+                  "CREA7UTrrLFquSwaLMkJkyvt44i6nGnQGyQGW8K2vjaT1TCw7t5Wjm",
                   1
                ],
                [
-                  "STM7XHyvqP7NwWZ8Ft3zGfr2oTQ35zanmQSzG8spyydLwG3xX8F3c",
+                  "CREA7XHyvqP7NwWZ8Ft3zGfr2oTQ35zanmQSzG8spyydLwG3xX8F3c",
                   1
                ],
                [
-                  "STM7XwYmNSkN3xFe5TeENWjzbz4hy8Lz9XzwJP3NvrdFKwHG3hF1b",
+                  "CREA7XwYmNSkN3xFe5TeENWjzbz4hy8Lz9XzwJP3NvrdFKwHG3hF1b",
                   1
                ],
                [
-                  "STM7edo93354X8UVTqNXEZRPR48YKgHVE4Fgf5JQbXJxYtHvjhr1x",
+                  "CREA7edo93354X8UVTqNXEZRPR48YKgHVE4Fgf5JQbXJxYtHvjhr1x",
                   1
                ],
                [
-                  "STM7hYhvDdWbFRB3L6jgj13jFEvtwdsbdCJnP5pxh6og2YqLH7Gu6",
+                  "CREA7hYhvDdWbFRB3L6jgj13jFEvtwdcbdCJnP5pxh6og2YqLH7Gu6",
                   1
                ],
                [
-                  "STM7t6XnMzLSH8phY9AY6vsxLUbawmMwAMLFZqP2LcoJFMG7Wue57",
+                  "CREA7t6XnMzLSH8phY9AY6vsxLUbawmMwAMLFZqP2LcoJFMG7Wue57",
                   1
                ],
                [
-                  "STM7wCGWxdXMDq47Wsad9mkaxYgBPfqXN43B5K7AhMmp8JHrmTaGo",
+                  "CREA7wCGWxdXMDq47Wsad9mkaxYgBPfqXN43B5K7AhMmp8JHrmTaGo",
                   1
                ],
                [
-                  "STM7xUGhNipU9FKybaZTuFpPv9vtS873x5aDan1Pt8svUJYZiMS7a",
+                  "CREA7xUGhNipU9FKybaZTuFpPv9vtS873x5aDan1Pt8svUJYZiMS7a",
                   1
                ],
                [
-                  "STM82JZUq2zMUfhhvQvYCorLgUdYuQwt6iXvdew5ThXMAUSyjNEoZ",
+                  "CREA82JZUq2zMUfhhvQvYCorLgUdYuQwt6iXvdew5ThXMAUSyjNEoZ",
                   1
                ],
                [
-                  "STM84ey7nf3VM7j87bxuqQJQYbPgE9b1VDAcHYgtkTKRfY47NZVQm",
+                  "CREA84ey7nf3VM7j87bxuqQJQYbPgE9b1VDAcHYgtkTKRfY47NZVQm",
                   1
                ],
                [
-                  "STM8AnBmk5uAS5pWbok325FBZM7u8AbXpnQ8be3s1S8rsmYAnWVfp",
+                  "CREA8AnBmk5uAS5pWbok325FBZM7u8AbXpnQ8be3s1S8rsmYAnWVfp",
                   1
                ],
                [
-                  "STM8H65ShwA2iG1986FPMBkrYNEexQGJsirZstB48QgiJtMFvByeT",
+                  "CREA8H65ShwA2iG1986FPMBkrYNEexQGJsirZstB48QgiJtMFvByeT",
                   1
                ],
                [
-                  "STM8PoAYdLuwacRiMCUMASvcyY74zrU5tVm7MuWdyVoRkP5TAQeXh",
+                  "CREA8PoAYdLuwacRiMCUMASvcyY74zrU5tVm7MuWdyVoRkP5TAQeXh",
                   1
                ],
                [
-                  "STM8UAUfKoMGnhoK7yD6teXHoUafHwgPmcLX8kT3wFqSSVYvrMPMx",
+                  "CREA8UAUfKoMGnhoK7yD6teXHoUafHwgPmcLX8kT3wFqSSVYvrMPMx",
                   1
                ],
                [
-                  "STM8a5Qj5XSppRb6qjUthq5WuSBsRY2vGJ9occp9CZZ7rfvUAXFMD",
+                  "CREA8a5Qj5XSppRb6qjUthq5WuSBsRY2vGJ9occp9CZZ7rfvUAXFMD",
                   1
                ],
                [
-                  "STM8b4ycgYEFbAnPxcHAkqGij27qEPKihmATB6HdMA5Z157rBFDVS",
+                  "CREA8b4ycgYEFbAnPxcHAkqGij27qEPKihmATB6HdMA5Z157rBFDVS",
                   1
                ],
                [
-                  "STM8fHPtUMWdk26LngMRap1nAVZc8STQ1bgaRftKCQUiN7RaYBSX9",
+                  "CREA8fHPtUMWdk26LngMRap1nAVZc8STQ1bgaRftKCQUiN7RaYBSX9",
                   1
                ],
                [
-                  "STM8fReN7Bnb6ecRGRVpFVLKEufyUbypZ8MDHcyXSrqhhwyAEM7ji",
+                  "CREA8fReN7Bnb6ecRGRVpFVLKEufyUbypZ8MDHcyXSrqhhwyAEM7ji",
                   1
                ],
                [
-                  "STM8gPJtitsyiRRmrkS1MSiG55d3WntfoAugGEXyNCnFbCPvXyKxp",
+                  "CREA8gPJtitsyiRRmrkS1MSiG55d3WntfoAugGEXyNCnFbCPvXyKxp",
                   1
                ],
                [
-                  "STM8jThuCTSRMtuuTdN8QTnvXTyZjzVFbeTMtK3zAMDjtQ4EmVRxz",
+                  "CREA8jThuCTSRMtuuTdN8QTnvXTyZjzVFbeTMtK3zAMDjtQ4EmVRxz",
                   1
                ],
                [
-                  "STM8jjJFbDszEDGrARLjDDrZuuL2iG4k1Xn3mxHrJS34SpCoCnaA9",
+                  "CREA8jjJFbDszEDGrARLjDDrZuuL2iG4k1Xn3mxHrJS34SpCoCnaA9",
                   1
                ]
             ],
@@ -3219,9 +3219,9 @@
          "last_root_post":"2018-07-30T12:04:21",
          "last_vote_time":"2018-07-30T12:04:21",
          "lifetime_vote_count":0,
-         "memo_key":"STM5bGSQZNZqUuxxuRpJs2P662ouCLMdnwtP36MvUX453Bn5ePvr5",
+         "memo_key":"CREA5bGSQZNZqUuxxuRpJs2P662ouCLMdnwtP36MvUX453Bn5ePvr5",
          "mined":false,
-         "name":"hellosteem",
+         "name":"hellocrea",
          "next_vesting_withdrawal":"2018-08-20T17:24:48",
          "owner":{
             "account_auths":[
@@ -3229,7 +3229,7 @@
             ],
             "key_auths":[
                [
-                  "STM5z3YriE9Jf3vX3tSVcUuU9Ug57QtEY7pgbsKTu6AdnzbfrsEK9",
+                  "CREA5z3YriE9Jf3vX3tSVcUuU9Ug57QtEY7pgbsKTu6AdnzbfrsEK9",
                   1
                ]
             ],
@@ -3239,7 +3239,7 @@
          "posting":{
             "account_auths":[
                [
-                  "bsteem",
+                  "bcrea",
                   1
                ],
                [
@@ -3255,7 +3255,7 @@
                   1
                ],
                [
-                  "esteem-app",
+                  "ecrea-app",
                   1
                ],
                [
@@ -3263,7 +3263,7 @@
                   1
                ],
                [
-                  "partiko-steemcon",
+                  "partiko-creacon",
                   1
                ],
                [
@@ -3271,11 +3271,11 @@
                   1
                ],
                [
-                  "steemguest",
+                  "creaguest",
                   1
                ],
                [
-                  "steemprojectsapp",
+                  "creaprojectsapp",
                   1
                ],
                [
@@ -3289,7 +3289,7 @@
             ],
             "key_auths":[
                [
-                  "STM6PiQjjEoF6N2hDfzSMLUw4qLebjQuyk9nnLBppNaZvX5qUkh8A",
+                  "CREA6PiQjjEoF6N2hDfzSMLUw4qLebjQuyk9nnLBppNaZvX5qUkh8A",
                   1
                ]
             ],
@@ -3310,12 +3310,12 @@
          },
          "recovery_account":"fabien",
          "reset_account":"null",
-         "reward_sbd_balance":{
+         "reward_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "reward_steem_balance":{
+         "reward_crea_balance":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -3325,7 +3325,7 @@
             "nai":"@@000000037",
             "precision":6
          },
-         "reward_vesting_steem":{
+         "reward_vesting_crea":{
             "amount":"0",
             "nai":"@@000000021",
             "precision":3
@@ -3335,23 +3335,23 @@
             "nai":"@@000000021",
             "precision":3
          },
-         "savings_sbd_balance":{
+         "savings_cbd_balance":{
             "amount":"0",
             "nai":"@@000000013",
             "precision":3
          },
-         "savings_sbd_last_interest_payment":"2017-12-08T04:54:03",
-         "savings_sbd_seconds":"0",
-         "savings_sbd_seconds_last_update":"2017-12-08T04:54:03",
+         "savings_cbd_last_interest_payment":"2017-12-08T04:54:03",
+         "savings_cbd_seconds":"0",
+         "savings_cbd_seconds_last_update":"2017-12-08T04:54:03",
          "savings_withdraw_requests":0,
-         "sbd_balance":{
+         "cbd_balance":{
             "amount":"2657",
             "nai":"@@000000013",
             "precision":3
          },
-         "sbd_last_interest_payment":"2018-07-28T13:47:33",
-         "sbd_seconds":"0",
-         "sbd_seconds_last_update":"2018-07-28T13:47:33",
+         "cbd_last_interest_payment":"2018-07-28T13:47:33",
+         "cbd_seconds":"0",
+         "cbd_seconds_last_update":"2018-07-28T13:47:33",
          "to_withdraw":2435811079,
          "vesting_shares":{
             "amount":"4885559226",

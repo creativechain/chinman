@@ -1,4 +1,4 @@
-from simple_steem_client.serializer.operation_variants import operation_variants
+from simple_crea_client.serializer.operation_variants import operation_variants
 
 import math
 import time
@@ -46,9 +46,9 @@ def twos(v, width):
     return UINT64_MAX-abs_v+1
 
 class Serializer:
-  """Converts dicts and objects into sequences of bytes as required by the STEEM blockchain.
+  """Converts dicts and objects into sequences of bytes as required by the CREA blockchain.
 
-  STEEM uses a custom binary serialization format. All transactions on the blockchain must
+  CREA uses a custom binary serialization format. All transactions on the blockchain must
   be signed, and the signatures must be taken over the binary serialization of the transaction.
 
   Some properties of the serialization format:
@@ -237,17 +237,17 @@ class Serializer:
     assert(value is None)
     return 0
 
-  _re_amount = re.compile(r"^([0-9]{0,19})[.]([0-9]{0,19}) (STEEM|SBD|VESTS|TESTS|TBD)$")
+  _re_amount = re.compile(r"^([0-9]{0,19})[.]([0-9]{0,19}) (CREA|CBD|VESTS|TESTS|TBD)$")
   _allowed_symbol_prec = set([
-    ("STEEM", 3),
-    ("SBD", 3),
+    ("CREA", 3),
+    ("CBD", 3),
     ("VESTS", 6),
     ("TESTS", 3),
     ("TBD", 3),
     ])
 
   def asset(self, value):
-    # new asset JSON form as list, see https://github.com/steemit/steem/issues/1937
+    # new asset JSON form as list, see https://github.com/creativechain/crea/issues/1937
 
     assert(type(value) == str)
 
@@ -299,7 +299,7 @@ class Serializer:
     return self.fields(value, (
       ( "account_creation_fee", "asset" ),
       ( "maximum_block_size", "uint32" ),
-      ( "sbd_interest_rate", "uint16" )
+      ( "cbd_interest_rate", "uint16" )
     ))
 
   def operation(self, value):
