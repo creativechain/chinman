@@ -357,5 +357,3 @@ To test `chinman`:
 $ cd test
 $ pip install .. && python -m unittest *_test.py
 ```
-
-<img src="https://i.imgur.com/h57pDVE.png" width="25%" height="25%" />
